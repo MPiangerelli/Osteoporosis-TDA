@@ -1,0 +1,9 @@
+# Tested with Python 3.9 on macOS (Apple Silicon). giotto-tda ships compiled
+# extensions: install with pip, or use conda for numpy/scipy first.
+numpy==1.23.5
+scipy==1.13.1
+scikit-learn==1.6.1
+matplotlib==3.9.4
+pillow==10.0.0
+giotto-tda==0.6.2
+joblib==1.5.3

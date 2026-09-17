@@ -1,0 +1,15 @@
+STATISTICAL ROBUSTNESS — control (n=15) vs pathological (n=21)
+
+1) MANN-WHITNEY U  (median ctrl | median patho | Cliff d | p_img | q_img(FDR) | p_fam | q_fam(FDR))
+   adipocyte fraction               0.097 |     0.562 | d=+1.00 | p=4.7e-07 q=1.9e-06 | pfam=0.003 q=0.005
+   largest-void radius (px)         2.236 |    32.757 | d=+1.00 | p=4.2e-07 q=1.9e-06 | pfam=0.003 q=0.005
+   dominant void persistence (H1)     7.403 |    27.422 | d=+0.97 | p=9.0e-07 q=2.4e-06 | pfam=0.003 q=0.005
+   dominant tissue persistence (H0)    14.302 |    12.601 | d=-0.34 | p=8.9e-02 q=8.9e-02 | pfam=0.432 q=0.432
+   persistent entropy tissue (H0)     9.008 |    10.051 | d=+0.86 | p=1.5e-05 q=2.4e-05 | pfam=0.010 q=0.012
+   persistent entropy void (H1)    11.770 |    11.047 | d=-0.73 | p=2.2e-04 q=3.0e-04 | pfam=0.010 q=0.012
+   Wasserstein amplitude tissue (H0)    42.175 |    46.746 | d=+0.68 | p=6.0e-04 q=6.8e-04 | pfam=0.010 q=0.012
+   Wasserstein amplitude void (H1)    76.025 |    62.015 | d=-0.95 | p=1.7e-06 q=3.5e-06 | pfam=0.003 q=0.005
+
+2) PERMANOVA on landscape distance (group factor): pseudo-F=35.59, p=0.0001  (9999 perms)
+
+3) Leave-one-replica-out 1-NN group accuracy = 1.000; family-level permutation p=0.0022 (null mean=0.646, 95th pct=0.806)

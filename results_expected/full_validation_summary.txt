@@ -1,0 +1,2 @@
+family_accuracy 12/36 = 0.333
+group_accuracy  36/36 = 1.000

@@ -1,0 +1,37 @@
+replica_family,nn_family,family_match,group_match,nn_distance
+Aged 1y,p62-3m,0,1,13.1500
+Aged 1y,OVX 3m,0,1,7.3923
+Aged 1y,Aged 2y,0,1,20.7183
+Aged 2y,Aged 2y,1,1,17.0471
+Aged 2y,Aged 2y,1,1,12.2255
+Aged 2y,Aged 2y,1,1,12.2255
+OVX 3m,Aged 1y,0,1,7.3923
+OVX 3m,Aged 1y,0,1,23.2326
+OVX 3m,Aged 2y,0,1,18.0387
+RANKL Ctrl,RANKL Ctrl,1,1,3.9609
+RANKL Ctrl,WT 6m,0,1,7.1606
+RANKL Ctrl,RANKL Ctrl,1,1,3.9609
+RANKL Tg,p62-2y,0,1,32.4789
+RANKL Tg,Aged 2y,0,1,24.1326
+RANKL Tg,p62-1y,0,1,15.8913
+SO 3m,WT 6m,0,1,2.4604
+SO 3m,WT 3m,0,1,6.8132
+SO 3m,WT 3m,0,1,2.9494
+WT 3m,SO 3m,0,1,4.8412
+WT 3m,SO 3m,0,1,2.9494
+WT 3m,WT 8m,0,1,6.3911
+WT 6m,WT 6m,1,1,1.9056
+WT 6m,WT 6m,1,1,1.9056
+WT 6m,WT 3m,0,1,4.2111
+WT 8m,WT 8m,1,1,5.3431
+WT 8m,WT 8m,1,1,28.5922
+WT 8m,WT 8m,1,1,5.3431
+p62-1y,Aged 2y,0,1,18.5070
+p62-1y,OVX 3m,0,1,14.5837
+p62-1y,Aged 2y,0,1,19.3957
+p62-2y,RANKL Tg,0,1,48.0471
+p62-2y,Aged 2y,0,1,21.7133
+p62-2y,Aged 2y,0,1,24.6894
+p62-3m,Aged 1y,0,1,13.1500
+p62-3m,p62-3m,1,1,12.6215
+p62-3m,p62-3m,1,1,12.6215

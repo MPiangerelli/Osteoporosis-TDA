@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/
+data/images/*
+!data/images/README.md
+.DS_Store
