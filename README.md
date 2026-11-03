@@ -1,4 +1,4 @@
-# Topological analysis of bone-marrow adiposity in murine osteoporosis
+# Topology of bone marrow adiposity separates and ranks osteoporotic phenotypes in mice
 
 Code accompanying *Unveiling Osteoporosis and Bone Marrow Adiposity Through
 Topological Data Analysis*. It reproduces the
