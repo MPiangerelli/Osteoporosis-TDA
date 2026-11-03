@@ -1,7 +1,7 @@
 # Topological analysis of bone-marrow adiposity in murine osteoporosis
 
 Code accompanying *Unveiling Osteoporosis and Bone Marrow Adiposity Through
-Topological Data Analysis* (Piangerelli et al.). It reproduces the
+Topological Data Analysis*. It reproduces the
 computational Materials and Methods, Table 1, Table 2 and Figures 4-11 from
 the 36 H&E micrographs (12 experimental groups x 3 replicates).
 
